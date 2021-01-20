@@ -6,7 +6,7 @@
 I'm a backend developer from Brazil, coding for fun and also to make money (we all need money) for 7 years.
 Currently i'm working with TypeScript microservices and testing with Jest. 
 
-In the past days, i coded in Python (oh i love Python), Ruby (which i also love), C# and even Scala. 
+In the past days, i coded in Python (oh i love Python), Ruby (which i also love), C# and even Scala, working with microservices and REST APIs.
 Currently i'm willing to learn Go, but also improve my frontend skills, by having a more strong CSS & React skills.
 
 As a side note, i have some interest in UX.
