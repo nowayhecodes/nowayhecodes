@@ -1,3 +1,7 @@
+<div style="margin: auto;">
+  <a href="https://codetrace.com/users/nowayhecodes"><img src="https://codetrace.com/widget/nowayhecodes" width="440" height="100" /></a>
+</div>
+
 ![codewars](https://www.codewars.com/users/nowayhecodes/badges/micro)
 [![HitCount](http://hits.dwyl.com/nowayhecodes/nowayhecodes.svg)](http://hits.dwyl.com/nowayhecodes/nowayhecodes)
 
