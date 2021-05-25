@@ -3,7 +3,6 @@
 </div>
 
 ![codewars](https://www.codewars.com/users/nowayhecodes/badges/micro)
-[![HitCount](http://hits.dwyl.com/nowayhecodes/nowayhecodes.svg)](http://hits.dwyl.com/nowayhecodes/nowayhecodes)
 
 ### Hi there 👋, i'm Gustavo (he/his). Some people call me Gus.
 
