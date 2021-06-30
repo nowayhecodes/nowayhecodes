@@ -1,12 +1,8 @@
-<div style="margin: auto;">
-  <a href="https://codetrace.com/users/nowayhecodes"><img src="https://codetrace.com/widget/nowayhecodes" width="440" height="100" /></a>
-</div>
-
 ![codewars](https://www.codewars.com/users/nowayhecodes/badges/micro)
 
 ### Hi there 👋, i'm Gustavo (he/his). Some people call me Gus.
 
-I'm a backend developer from Brazil, coding for fun and also to make money (we all need money) for 7 years.
+I'm a backend developer from Brazil, coding for fun and also to make money (we all need money, right?) for 7 years.
 Currently i'm working with TypeScript microservices and testing with Jest. 
 
 Languages, frameworks & tools i know: 
