@@ -9,22 +9,38 @@ Languages, frameworks & tools i know:
 
 <div style="display: inline_block"> 
   <img align="center" alt="Icon Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  
   <img align="center" alt="Icon Express" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  
   <img align="center" alt="Icon Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  
   <img align="center" alt="Icon Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  
   <img align="center" alt="Icon JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  
   <img align="center" alt="Icon TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  
   <img align="center" alt="Icon Jest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  
   <img align="center" alt="Icon Karma" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" />
+  
   <img align="center" alt="Icon MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  
   <img align="center" alt="Icon MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+  
   <img align="center" alt="Icon Sequelize" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" />
+  
   <img align="center" alt="Icon Ruby" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" />
+  
   <img align="center" alt="Icon Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  
   <img align="center" alt="Icon Flask" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-</div>
+  
   <img align="center" alt="Icon Redis" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+  
+  <img align="center" alt="Icon AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
+
 <br />
 
 Learning or willing to learn:
