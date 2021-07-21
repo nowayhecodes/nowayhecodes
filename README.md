@@ -41,13 +41,9 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   </h4>
 </div>
 
-<br />
-
 <div align="center">
   <h3>Things i know, by affinity/proficiency order</h3>
 </div>
-
-<br />
 
 <div align="center">
   <h3>Love 😍</h3>
@@ -64,8 +60,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </div>
 </div>
-
-<br />
 
 <div align="center">
   <h3>Like 👍</h3>
@@ -87,8 +81,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   </div>
 </div>
 
-<br />
-
 <div align="center">
   <h3>Also like, but not that much 🤔</h3>
 
@@ -106,8 +98,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   </div>
 </div>
 
-<br />
-
 <div align="center">
   <h3>Avoid 🏃‍♂️</h3>
 
@@ -116,8 +106,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   </div>
 </div>
-
-<br />
 
 <div align="center">
   <h3>Learning 📚</h3>
@@ -129,8 +117,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   </div>
 </div>
-
-<br />
 
 <div align="center">
   <h3>Interested in 👀</h3>
