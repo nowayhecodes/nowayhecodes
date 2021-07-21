@@ -10,7 +10,7 @@
   <h1>Hi there 👋</h1>
   <picture>
     <source media="(max-width:265px)" srcset="./asset/avataaars.png">
-    <img src="./asset/avataaars.png" alt="silly avatar" style="width: 265px;" />
+    <img src="./asset/avataaars.png" alt="silly avatar" width="265" height="265" />
   </picture>
 
   <br />
