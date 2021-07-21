@@ -1,7 +1,7 @@
 <div align="center">
-  
-  ![codewars](https://www.codewars.com/users/nowayhecodes/badges/micro)
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=nowayhecodes.nowayhecodes)
+
+![codewars](https://www.codewars.com/users/nowayhecodes/badges/micro)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nowayhecodes.nowayhecodes)
 
 </div>
 <br />
@@ -9,8 +9,8 @@
 <div style="display: block;" align="center" >
   <h1>Hi there 👋</h1>
   <picture>
-    <source media="(max-width:365px)" srcset="./asset/avataaars.png">
-    <img src="./asset/avataaars.png" alt="silly avatar" style="width: 365px;" />
+    <source media="(max-width:265px)" srcset="./asset/avataaars.png">
+    <img src="./asset/avataaars.png" alt="silly avatar" style="width: 265px;" />
   </picture>
 
   <br />
@@ -30,23 +30,22 @@
 
 <br />
 
-    $ I'm Gustavo.
-    $ Some people call me Gus.
+<div align="center">
+  <h4>
+  I'm Gustavo.
+  Some people call me Gus.
 
-    $ I'm a backend developer from Brazil, coding for fun and also to make money (we all need money, right?) for 7 years.
-    $ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
+I'm a backend developer from Brazil, coding for fun and also to make money (we all need money, right?) for 7 years.
+Currently working with NodeJS/TypeScript microservices, running tests with Jest.
+
+  </h4>
+</div>
 
 <br />
-
-<div align="center">
 
 ## Tech Stacks
 
-<br />
-
 ### Languages
-
-<br />
 
 <div style="display: inline_block;">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -57,11 +56,8 @@
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
-<br />
 
 ### Frameworks
-
-<br />
 
 <div style="display: inline_block;">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -70,11 +66,8 @@
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
-<br />
 
 ### DB's
-
-<br />
 
 <div style="display: inline_block;">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -82,11 +75,8 @@
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 </div>
-<br />
 
 ### Other stuff:
-
-<br />
 
 <div style="display: inline_block;">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -100,22 +90,16 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 </div>
-<br />
 
 ### Trying to learn:
-
-<br />
 
 <div style="display: inline_block;">
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
-<br />
 
 ### Willing to learn:
-
-<br />
 
 <div style="display: inline_block;">
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
@@ -128,5 +112,4 @@
   <img alt="Clojure" src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-</div>
 </div>
