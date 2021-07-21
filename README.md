@@ -17,11 +17,11 @@
   <br />
 
   <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/gustacavalcante" target="_blank">
+  <a href="https://www.linkedin.com/in/gustacavalcante" target="_blank" rel="noopener">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://medium.com/@guscavalcante" target="_blank">
+  <a href="https://medium.com/@guscavalcante" target="_blank" rel="noopener">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
 </div>
