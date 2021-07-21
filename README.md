@@ -76,7 +76,7 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 </div>
 
-### Other stuff:
+### Other stuff
 
 <div style="display: inline_block;">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -91,7 +91,7 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 </div>
 
-### Trying to learn:
+### Learning
 
 <div style="display: inline_block;">
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
@@ -99,7 +99,7 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
-### Willing to learn:
+### Willing to learn
 
 <div style="display: inline_block;">
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
