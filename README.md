@@ -31,14 +31,15 @@
 <br />
 
 <div align="center">
-  <h4>
-  I'm Gustavo.
-  Some people call me Gus.
+  <p>
+  I'm Gustavo. <br />
+  Some people call me Gus. First of His Kind. The one who doesn't like coffee and drinks green tea instead.
 
-I'm a backend developer from Brazil, coding for fun and also to make money (we all need money, right?) for 7 years.
+    
+I'm a backend developer from Brazil, coding for fun and also to make money (we all need money, right?) for 7 years.<br />
 Currently working with NodeJS/TypeScript microservices, running tests with Jest.
 
-  </h4>
+  </p>
 </div>
 
 <div align="center">
