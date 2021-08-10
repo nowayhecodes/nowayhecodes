@@ -72,3 +72,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
     <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   </div>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
