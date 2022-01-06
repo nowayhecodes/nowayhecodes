@@ -21,7 +21,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://medium.com/@guscavalcante" target="_blank" rel="noopener">
+  <a href="https://nowayguscodes.medium.com/" target="_blank" rel="noopener">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
 </div>
