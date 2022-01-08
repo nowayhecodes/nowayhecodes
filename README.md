@@ -77,6 +77,8 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C304%20hrs%2047%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
