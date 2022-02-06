@@ -68,8 +68,6 @@ Currently working with NodeJS/TypeScript microservices, running tests with Jest.
   <div style="display: inline_block;">
     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   </div>
 </div>
@@ -98,19 +96,12 @@ JSON                     52 mins             █░░░░░░░░░░�
 YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
 Docker                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
 
-🔥 Editors: 
-VS Code                  16 hrs 52 mins      █████████████████████████   100.0%
-
 🐱‍💻 Projects: 
 feature-toggle-poc       8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.53% 
 goat                     3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58% 
 customers-bff            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
 wishlist-bff             1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
 Unknown Project          1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
-
-💻 Operating System: 
-Linux                    10 hrs 20 mins      ███████████████░░░░░░░░░░   61.34% 
-Windows                  6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   38.66%
 
 ```
 
