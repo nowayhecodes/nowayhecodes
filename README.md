@@ -1,7 +1,7 @@
 <div align="center">
 
 ![codewars](https://www.codewars.com/users/nowayhecodes/badges/micro)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nowayhecodes.nowayhecodes)
+![coding status](https://badge.stateful.com/nowayhecodes/status.svg)
 
 </div>
 <br />
