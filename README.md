@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowayhecodes" alt="nowayhecodes" /></a> </p>
 
-- 🔭 I’m currently working on [actor-bonilla](https://github.com/nowayhecodes/actor-bonilla)
+- 🔭 I’m currently working on [actor-bonilla](https://github.com/nowayhecodes/actor-bonilla) and [rpm](https://github.com/nowayhecodes/rpm)
 
-- 🌱 I’m currently learning **Domain-Driven Design, Golang.**
+- 🌱 I’m currently learning **Rust.**
 
 - 📝 I regularly write articles on [https://medium.com/@nowayguscodes](https://medium.com/@nowayguscodes)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nowayhecodes@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gustacavalcante/](https://www.linkedin.com/in/gustacavalcante/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/gustacavalcante/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
